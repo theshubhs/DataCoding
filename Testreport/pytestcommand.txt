@@ -1,0 +1,3 @@
+#pytest command used for generating html report in specific folder. 
+
+pytest -m sanity --html=./Testreport/report.html
